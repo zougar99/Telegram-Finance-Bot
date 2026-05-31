@@ -519,4 +519,11 @@ If you like this project, don't forget to **⭐ star** it on GitHub!
 
 ---
 
+## 📞 Contact / التواصل
+
+- **Telegram**: [@werlist99](https://t.me/werlist99) 💬
+- **GitHub**: [zougar99](https://github.com/zougar99)
+
+---
+
 *Made with ❤️ for the Telegram community — تطبيق مجاني للمجتمع*
