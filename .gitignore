@@ -1,0 +1,8 @@
+cred.py
+.env
+*.db
+__pycache__/
+.cursor/
+.tdad/
+.vscode/
+*.pyc
